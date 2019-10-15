@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.ahmad.cv.base",
+    "package_name": "com.smasherUsama.cv.base",
     "sha256_cert_fingerprints":
-    ["17:FF:92:F4:2A:F6:6D:82:F4:96:0B:2B:6E:9C:B1:86:C9:E3:E4:29:BF:FA:37:AE:0A:9B:28:9C:8F:00:C7:35"]
+    ["77:DD:2A:32:71:84:5E:CC:05:E6:E8:43:23:F5:25:08:FD:34:C4:7C:10:D1:25:82:25:91:8F:28:92:E6:F8:EF"]
   }
 }]
